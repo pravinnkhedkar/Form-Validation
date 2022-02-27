@@ -1,0 +1,34 @@
+.mainDiv {
+  width: 500px;
+  margin: auto;
+  text-align: center;
+  background-color: skyblue;
+  border: 2px solid black;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+.form {
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  width: 100px;
+}
+
+.userError {
+  border: 4px solid red;
+}
+
+.successMsg {
+  color: green;
+  font-weight: 900;
+}
+
+.errorMsg {
+  color: red;
+  font-weight: 900;
+}
+
+.inputError {
+  border: 3px solid red;
+}
